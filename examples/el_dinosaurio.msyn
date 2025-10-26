@@ -1,0 +1,5 @@
+
+# Ejemplo: "El dinosaurio" de Augusto Monterroso en M-SynCode
+
+status.idle -> invoke(memory.echo["Cuando despertó, el dinosaurio todavía estaba allí."])
+@core.sense[drift:time]
